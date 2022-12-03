@@ -3,5 +3,7 @@
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/lign167-fa22-team-franklin/final-project) 
 
 ```sh
-mamba install -c conda-forge cudatoolkit cudatoolkit-dev
+mamba update -c conda-forge ncurses
+mamba update -c conda-forge cudatoolkit cudatoolkit-dev
 ```
+
