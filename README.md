@@ -6,4 +6,3 @@
 mamba update -c conda-forge ncurses
 mamba update -c conda-forge cudatoolkit cudatoolkit-dev
 ```
-
